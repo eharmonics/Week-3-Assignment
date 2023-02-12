@@ -1,0 +1,21 @@
+Airline,Arrival,Destination,Arrival_Delay
+Alaska,on time,Los Angeles,497
+Alaska,on time,Phoenix,221
+Alaska,on time,San Diego,212
+Alaska,on time,San Francisco,503
+Alaska,on time,Seattle,1841
+Alaska,delayed,Los Angeles,62
+Alaska,delayed,Phoenix,12
+Alaska,delayed,San Diego,20
+Alaska,delayed,San Francisco,102
+Alaska,delayed,Seattle,305
+AM West,on time,Los Angeles,694
+AM West,on time,Phoenix,4840
+AM West,on time,San Diego,383
+AM West,on time,San Francisco,320
+AM West,on time,Seattle,201
+AM West,delayed,Los Angeles,117
+AM West,delayed,Phoenix,415
+AM West,delayed,San Diego,65
+AM West,delayed,San Francisco,129
+AM West,delayed,Seattle,61
